@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Download CV here](https://exer07.github.io/files/resume.pdf)
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bodindecha Singhaseni (2018-2021)
+* king mongkut's university of technology thonburi (2021-2024)
+
 
 Work experience
 ======
