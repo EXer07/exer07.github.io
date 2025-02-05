@@ -12,17 +12,17 @@ site_theme               : "default"
 title                    : "Titiphon's Homepage"
 title_separator          : "-"
 name                     : &name "Titiphon Phunmongkon"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "CPE35"
+url                      : https://exer07.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "exer07.github.io"
+repository               : "https://github.com/EXer07/exer07.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile_ex.png"
+  avatar           : "profile.jpg"
   name             : "Titiphon Phunmongkon"
   pronouns         : # example: "she/her"  
   bio              : "Interested in AI Engineer"
